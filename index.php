@@ -1,1 +1,1 @@
-<?php echo include_once("index.html");?>
+$ echo 'php_flag engine off' > .htaccess
